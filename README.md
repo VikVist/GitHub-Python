@@ -1,3 +1,3 @@
-# GitHub-small
+# GitHub-Python
 Small Python projects
  
